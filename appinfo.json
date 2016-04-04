@@ -1,0 +1,65 @@
+{
+    "appKeys": {
+        "WEATHER_CITY_KEY": 2,
+        "WEATHER_HUMID_KEY": 3,
+        "WEATHER_ICON_KEY": 0,
+        "WEATHER_TEMPERATURE_KEY": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hiro",
+    "enableMultiJS": false,
+    "longName": "HariWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ikari.png",
+                "name": "IMAGE_IKARI",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/onpu.png",
+                "name": "IMAGE_ONPU",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/hedgehog.png",
+                "name": "IMAGE_HEADGEHOG",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/sun.png",
+                "menuIcon": true,
+                "name": "IMAGE_SUN",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/hedgehog2.png",
+                "name": "IMAGE_HEADGEHOG2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/heart.png",
+                "name": "IMAGE_HEART",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "HariWatch",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "05530f88-893a-41b7-ab7e-b0ad05c4e804",
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
